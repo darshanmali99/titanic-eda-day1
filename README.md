@@ -1,59 +1,59 @@
-📊 Titanic Dataset EDA — Day 1
-By Darshan Mali
+📊 Data Analysis Learning Journey — By Darshan Mali
 
-This project is part of my Data Analysis learning journey.
-On Day-1, I performed Exploratory Data Analysis (EDA) on the Titanic dataset using:
+This repository documents my structured journey to become a Data Analyst, 
+focusing on Python, data handling, analysis, and real-world problem solving.
 
-Python
+--------------------------------------------------
 
-Pandas
+📌 Day 1 — Exploratory Data Analysis (EDA)
+Dataset: Titanic Dataset
 
-NumPy
+Tools & Libraries:
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
-Matplotlib
+Key Work:
+- Data loading and inspection
+- Handling missing values
+- Gender distribution analysis
+- Passenger class analysis
+- Survival analysis by gender
+- Data visualization using Seaborn
 
-Seaborn
+Key Insight:
+- Female passengers had a significantly higher survival rate compared to males
+- Clear impact of passenger class and gender on survival
 
-🔍 Key Insights
-1️⃣ Gender Distribution
+--------------------------------------------------
 
-Male: 577
+📌 Day 2 — Python Fundamentals for Data Analysis
 
-Female: 314
+Focus:
+Building strong Python foundations required for data analysis.
 
-2️⃣ Passenger Class Distribution
+Concepts Covered:
+- Variables and data types
+- Conditional logic (if–else)
+- Loops (for)
+- Functions
+- Dictionaries and lists
+- Real-world logic building
+- Converting Python data into Pandas DataFrames
+- Filtering data using conditions
 
-Most passengers traveled in 3rd class.
+Mini Project:
+- Student eligibility & result evaluation system
+- Classified students as Adult/Minor and Pass/Fail
+- Converted results into a structured DataFrame
+- Applied conditional filtering using Pandas
 
-3️⃣ Age Distribution
+--------------------------------------------------
 
-Majority were between 20–35 years old.
+🎯 Goal:
+To build strong fundamentals, complete real-world projects, participate in competitions, 
+and prepare for Data Analyst internships and roles in top companies.
 
-4️⃣ Survival by Gender (Most Important Insight)
-
-A large number of male passengers did not survive
-
-A high proportion of female passengers survived
-
-This strongly reflects the evacuation rule:
-👉 "Women and children first."
-
-📈 Visualization
-Survival Count by Gender
-
-📁 Files in this Repository
-📄 day1_pandas_basics.ipynb    → Complete EDA code  
-🖼 titanic eda set .png         → Survival by gender visualization  
-📄 README.md                   → Project overview  
-
-🚀 Day-2 Plan
-
-Python basics
-
-Data cleaning
-
-Handling missing values
-
-More EDA
-
-Preparing for ML
+🚀 More updates coming daily.
