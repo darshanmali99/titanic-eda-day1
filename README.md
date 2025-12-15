@@ -1,59 +1,98 @@
 📊 Data Analysis Learning Journey — By Darshan Mali
 
-This repository documents my structured journey to become a Data Analyst, 
-focusing on Python, data handling, analysis, and real-world problem solving.
+This repository documents my structured, day-by-day journey to become a Data Analyst, focusing on Python, Pandas, data exploration, and analytical thinking.
 
---------------------------------------------------
+📅 Progress Overview
+✅ Day 1 — Exploratory Data Analysis (Titanic Dataset)
 
-📌 Day 1 — Exploratory Data Analysis (EDA)
-Dataset: Titanic Dataset
+Skills Practiced
 
-Tools & Libraries:
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+Data loading & inspection
 
-Key Work:
-- Data loading and inspection
-- Handling missing values
-- Gender distribution analysis
-- Passenger class analysis
-- Survival analysis by gender
-- Data visualization using Seaborn
+Handling missing values
 
-Key Insight:
-- Female passengers had a significantly higher survival rate compared to males
-- Clear impact of passenger class and gender on survival
+Value counts & distributions
 
---------------------------------------------------
+Basic visualizations (Seaborn & Matplotlib)
 
-📌 Day 2 — Python Fundamentals for Data Analysis
+Key Insights
 
-Focus:
-Building strong Python foundations required for data analysis.
+Gender-based survival differences
 
-Concepts Covered:
-- Variables and data types
-- Conditional logic (if–else)
-- Loops (for)
-- Functions
-- Dictionaries and lists
-- Real-world logic building
-- Converting Python data into Pandas DataFrames
-- Filtering data using conditions
+Passenger class distribution
 
-Mini Project:
-- Student eligibility & result evaluation system
-- Classified students as Adult/Minor and Pass/Fail
-- Converted results into a structured DataFrame
-- Applied conditional filtering using Pandas
+Age trends in survival
 
---------------------------------------------------
+📁 Notebook: day1_pandas_basics.ipynb
 
-🎯 Goal:
-To build strong fundamentals, complete real-world projects, participate in competitions, 
-and prepare for Data Analyst internships and roles in top companies.
+✅ Day 2 — Python Fundamentals for Data Analysis
 
-🚀 More updates coming daily.
+Concepts Covered
+
+Variables & data types
+
+Conditional logic (if / else)
+
+Loops (for)
+
+Functions
+
+Dictionaries & lists
+
+Real-world student data logic (Adult / Pass status)
+
+Outcome
+
+Built logic like a data analyst, not just a coder
+
+📁 Notebook: day2_python_fundamentals_for_data_analysis.ipynb
+
+✅ Day 3 — Pandas Core Operations
+
+Pandas Skills
+
+Creating DataFrames
+
+Column selection
+
+Filtering with conditions
+
+Sorting & ranking
+
+Aggregations (mean, min, max)
+
+Analyst-style queries (multi-condition filters)
+
+Focus
+
+Thinking in terms of business questions
+
+Translating logic → data insights
+
+📁 Notebook: day3_pandas_fundamentals.ipynb
+
+🛠 Tools & Technologies
+
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
+Jupyter Notebook
+
+🎯 Goal
+
+To build a strong data analyst profile with:
+
+Consistent daily learning
+
+Clean GitHub documentation
+
+Real-world analytical thinking
+
+Internship-ready skills
