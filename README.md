@@ -96,3 +96,39 @@ Clean GitHub documentation
 Real-world analytical thinking
 
 Internship-ready skills
+
+📅Day 4 — Data Cleaning & Feature Engineering
+
+On Day 4, I focused on one of the most important and practical skills for a Data Analyst: cleaning messy data and preparing it for analysis.
+
+🔧 Topics Covered
+
+Handling missing values (isnull(), sum(), fillna())
+
+Understanding data structure using info() and dtypes
+
+Fixing incorrect data types (e.g., float → int)
+
+Standardizing categorical values (e.g., Nashik vs nashik)
+
+Removing or correcting inconsistent entries
+
+Statistical overview using describe()
+
+Validating cleaned data before analysis
+
+🛠 Tools & Libraries Used
+
+Python
+
+Pandas
+
+NumPy
+
+Jupyter Notebook
+
+📌 Key Learning Outcome
+
+Learned how real-world datasets are rarely clean and how systematic data cleaning improves data quality, accuracy, and reliability before analysis or modeling.
+
+📄 Notebook: day4_data_cleaning_feature_engineering.ipynb
