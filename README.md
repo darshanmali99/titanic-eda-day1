@@ -1,90 +1,171 @@
-# 📊 Data Analysis Learning Journey — Darshan Mali
+📊 Data Analysis Learning Journey — Darshan Mali
 
-This repository documents my structured, day-by-day journey to become a Data Analyst, focusing on Python, Pandas, Exploratory Data Analysis (EDA), and analytical thinking.
+This repository documents my structured, hands-on journey toward becoming a Data Analyst, with a strong focus on Python, Pandas, Exploratory Data Analysis (EDA), and analytical thinking.
 
-The goal is not just to learn tools, but to develop strong data-driven reasoning and business-oriented insights.
+Rather than only learning tools, the goal of this journey is to develop the ability to:
 
----
+Ask the right questions from data
 
-## 📅 Progress Overview
+Validate assumptions
 
-### ✅ Day 1 — Exploratory Data Analysis (Titanic Dataset)
-**Focus:** Understanding data through basic EDA
+Avoid misleading conclusions
 
-**Skills Practiced**
-- Data loading & inspection
-- Handling missing values
-- Value counts & distributions
-- Basic visualizations (Matplotlib & Seaborn)
+Translate numbers into business-relevant insights
 
-**Key Insights**
-- Gender-based survival differences
-- Passenger class distribution
-- Age trends in survival
+🎯 Learning Philosophy
 
-📁 Notebook: `day1_pandas_basics.ipynb`
+Data analysis is not about writing more code,
+but about thinking clearly, logically, and responsibly with data.
 
----
+Each day in this repository reflects progressive learning, real-world datasets, and analyst-style reasoning.
 
-### ✅ Day 2 — Python Fundamentals for Data Analysis
-**Focus:** Building logic required for analytical problem-solving
+📅 Progress Overview
+✅ Day 1 — Exploratory Data Analysis (Titanic Dataset)
 
-**Concepts Covered**
-- Variables & data types
-- Conditional logic (if / else)
-- Loops (for)
-- Functions
-- Lists & dictionaries
+Focus: Understanding a dataset before drawing conclusions
 
-**Outcome**
-- Developed analyst-style logic using real-world student data examples
+Skills Practiced
 
-📁 Notebook: `day2_python_fundamentals_for_data_analysis.ipynb`
+Data loading and initial inspection
 
----
+Identifying missing values
 
-### ✅ Day 3 — Pandas Core Operations
-**Focus:** Translating business questions into data queries
+Frequency analysis and distributions
 
-**Pandas Skills**
-- Creating DataFrames
-- Column selection
-- Filtering with conditions
-- Sorting & ranking
-- Aggregations (mean, min, max)
+Basic visualizations using Matplotlib & Seaborn
 
-**Key Learning**
-- Thinking in terms of questions, not just code
+Key Insights
 
-📁 Notebook: `day3_pandas_fundamentals.ipynb`
+Gender-based survival differences
 
----
+Passenger class distribution
 
-### ✅ Day 4–6 — Student Dataset: EDA, Cleaning & Analytical Thinking
-*(Single notebook to reflect real analyst workflow)*
+Age trends affecting survival
 
-#### 🔹 Day 4 — Data Cleaning & Feature Engineering
-- Handling missing values
-- Understanding data types and structure
-- Standardizing categorical values
-- Creating meaningful features
-- Validating cleaned data
+📁 Notebook: day1_pandas_basics.ipynb
 
-#### 🔹 Day 5 — Exploratory Data Analysis & Insight Extraction
-- Univariate analysis
-- Categorical analysis
-- Bivariate analysis
-- Insight-driven visualizations
-- Identifying performance patterns
+✅ Day 2 — Python Fundamentals for Data Analysis
 
-#### 🔹 Day 6 — Deep EDA Thinking & Avoiding Wrong Conclusions
-- Segmentation before conclusion
-- Mean vs median (why averages mislead)
-- Correlation vs causation
-- Simpson’s Paradox
-- Business-style reasoning from data
+Focus: Building the logical foundation required for analytical thinking
 
-**Key Learning**
-Learned how analysts prevent wrong conclusions by breaking data into meaningful segments and validating insights logically.
+Concepts Covered
 
-📁 Notebook: `student_data_eda_day4_to_day6_
+Variables and data types
+
+Conditional logic (if / else)
+
+Loops (for)
+
+Functions
+
+Lists and dictionaries
+
+Outcome
+
+Developed problem-solving logic using real-world student data examples
+
+Focused on clarity and reasoning rather than syntax memorization
+
+📁 Notebook: day2_python_fundamentals_for_data_analysis.ipynb
+
+✅ Day 3 — Pandas Core Operations
+
+Focus: Converting business questions into data queries
+
+Pandas Skills
+
+Creating and manipulating DataFrames
+
+Column selection and filtering
+
+Sorting and ranking
+
+Aggregations (mean, min, max, count)
+
+Key Learning
+
+Shifted mindset from “writing code” to answering questions with data
+
+📁 Notebook: day3_pandas_fundamentals.ipynb
+
+✅ Day 4–6 — Student Dataset: EDA, Cleaning & Analytical Thinking
+
+(Single notebook to reflect real analyst workflow)
+
+🔹 Day 4 — Data Cleaning & Feature Engineering
+
+Handling missing values responsibly
+
+Understanding data structure and data types
+
+Standardizing categorical values
+
+Creating meaningful features
+
+Validating cleaned datasets
+
+🔹 Day 5 — Exploratory Data Analysis & Insight Extraction
+
+Univariate analysis
+
+Categorical data analysis
+
+Bivariate analysis
+
+Insight-driven visual exploration
+
+Identifying academic performance patterns
+
+🔹 Day 6 — Deep EDA Thinking & Avoiding Wrong Conclusions
+
+Importance of segmentation before conclusions
+
+Mean vs median (why averages can mislead)
+
+Correlation vs causation
+
+Understanding Simpson’s Paradox
+
+Translating findings into business-style reasoning
+
+Key Learning
+Learned how professional analysts avoid incorrect conclusions by validating insights, questioning averages, and analyzing data in meaningful segments.
+
+📁 Notebook: student_data_eda_day4_to_day6.ipynb
+
+✅ Day 7 — Exploratory Data Analysis (Structured Analyst Workflow)
+
+Focus: End-to-end EDA with documentation and insights
+
+Key Activities
+
+Dataset understanding and objective definition
+
+Data quality checks
+
+Univariate and bivariate analysis
+
+Insight writing
+
+Executive-style summary
+
+Key Learning
+Developed a complete analyst workflow that balances:
+
+Code
+
+Interpretation
+
+Communication
+
+📁 Folder: Day_07_EDA/
+
+🛠️ Tools & Technologies Used
+
+Python
+
+Pandas
+
+Jupyter Notebook
+
+Matplotlib / Seaborn (where applicable)
