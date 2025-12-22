@@ -169,3 +169,17 @@ Pandas
 Jupyter Notebook
 
 Matplotlib / Seaborn (where applicable)
+
+## Day 8–9: SQL for Data Analysis
+
+- Learned SQL fundamentals with analyst mindset
+- Practiced SELECT, WHERE, ORDER BY, LIMIT
+- Executed real SQL queries using PostgreSQL and pgAdmin
+- Created database, table, and inserted data
+- Used GROUP BY with aggregates like AVG, COUNT, MIN, MAX
+- Combined WHERE with GROUP BY for filtered analysis
+
+Tools:
+- PostgreSQL
+- pgAdmin 4
+
