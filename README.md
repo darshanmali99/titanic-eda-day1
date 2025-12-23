@@ -183,3 +183,36 @@ Tools:
 - PostgreSQL
 - pgAdmin 4
 
+📅 Day 10 — Business-Focused SQL Analysis
+Overview
+
+Performed a business-oriented SQL analysis to evaluate performance patterns and identify high-performing and at-risk individuals using structured queries.
+
+Key Questions Answered
+
+Performance distribution across rating categories
+
+Relationship between attendance and performance
+
+Identification of top performers
+
+Detection of at-risk individuals
+
+SQL Skills Used
+
+SELECT, WHERE, ORDER BY
+
+Logical conditions (AND, OR)
+
+Group-based analysis
+
+Priority-based ranking
+
+Key Outcome
+
+SQL was used as a decision-support tool to highlight performance trends and enable targeted intervention strategies.
+
+Files
+
+sql/day10_business_analysis.sql
+
