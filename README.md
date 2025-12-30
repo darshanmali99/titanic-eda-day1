@@ -216,3 +216,5 @@ Files
 
 sql/day10_business_analysis.sql
 
+### Day 11 – SQL CASE WHEN & Categorization
+Applied CASE WHEN logic to classify student performance levels and analyze category-wise attendance for business insights.
